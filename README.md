@@ -53,8 +53,5 @@
             <td>John's approach to problem-solving has been instrumental in our success. - Sarah, Frontend Developer</td>
         </tr>
     </table>
-    <footer style="text-align:center;">
-        © [2025] All rights reserved by John Doe
-    </footer>
 </body>
 </html>
